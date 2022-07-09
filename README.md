@@ -21,3 +21,17 @@
                        -side band shows around that frequency is Fault .
                         -Highest Peak Represent the its Harmonics.
                         -formula for PSD =IFT. 
+                        
+         #fslms
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
