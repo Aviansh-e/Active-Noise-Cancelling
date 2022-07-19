@@ -1,10 +1,10 @@
 
-input_file =Bandsaw2;       % here we can put the name of the noise data
+input_file =Bandsaw2;       % here we can put the file name of the noise data
 
 y = input_file.VarName2;    %here we will give the name of the columns from the file
 
 
-phase_y = [0; y(1:end-1)]; 
+phase_y = [0; y(1:end-1)];  %extracting all the columns
 
 
                                                                        
