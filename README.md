@@ -23,7 +23,9 @@
                           -Highest Peak Represent the its Harmonics.
                           -formula for PSD =IFT. 
                
-                         #FSLMS
+                         
+                        `                  #FSLMS
+   
     ***1*** To deal with the non-linear noise signal,fslms come in to the picture,
     ***2*** it consist of non-linear controlled structure ,where as primary path is the acoustic path from the input microphone to the cancelling laudspeaker.
     
@@ -34,6 +36,11 @@
        - *weight* get updated using the **gradient descent** algorithm.
        -** secondary path ** provide a flexibility in cancelling the noise.
     
+    
+                                       #Generalise FSLMS
+                                       
+                                        
+                                        
                       
                         
                         
