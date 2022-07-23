@@ -19,12 +19,12 @@
                          -it also help in determining the which noise is it by simply looking its plot.
     
    **-> Power Spectrum-**   From it we finding the Fault to that frequency or 1st Harmonic 2nd harmonic and so on..
-                          -side band shows around that frequency is Fault .
-                          -Highest Peak Represent the its Harmonics.
-                          -formula for PSD =IFT. 
+- side band shows around that frequency is Fault .
+- Highest Peak Represent the its Harmonics.
+- formula for PSD =IFT. 
                
                          
-                        `                  #FSLMS
+     # FSLMS
    
     ***1*** To deal with the non-linear noise signal,fslms come in to the picture,
     ***2*** it consist of non-linear controlled structure ,where as primary path is the acoustic path from the input microphone to the cancelling laudspeaker.
