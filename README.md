@@ -42,7 +42,7 @@
     -** secondary path ** provide a flexibility in cancelling the noise.
     
     
-                                       #cGeneralise FSLMS
+                                       # Generalise FSLMS
     - This algorithm is also used for cancelling the non-linear Noises.
     - Here we are deals with the some cross term (used of the past signal) to improve the performances of this Algorithm.
     - In this algorithm we are also dealing with the some trigonometric terms to produce the input signal strength,similer to the volterra filter.
